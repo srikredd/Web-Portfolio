@@ -1,0 +1,19 @@
+.portfolio {
+    padding: 20px;
+  }
+  
+  .portfolio h2 {
+    color: #333;
+  }
+  
+  .portfolio .project {
+    margin-bottom: 20px;
+  }
+  
+  .portfolio .project h3 {
+    color: #333;
+  }
+  
+  .portfolio .project p {
+    color: #666;
+  }
